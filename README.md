@@ -8,6 +8,7 @@
 
 ## 📜 **Table of Contents**  
 - [🎮 Features](#-features)
+- [🎮 Use Case Diagram](#-use-case-diagram)
 - [🛠 Technologies Used](#-technologies-used)  
 - [👤 User Roles](#-user-roles)  
 - [📸 Screenshots](#-screenshots)  
@@ -164,6 +165,12 @@
 -	Click on Add video button to add that.
 -	Click on Back button to return to Admin screen.
 -	Note: by not entering all the fields, the user gets an error message. 
+
+---
+
+## 🛠 **Use Case Diagram**
+
+<img width="826" alt="Screenshot 2025-02-02 at 0 50 34" src="https://github.com/user-attachments/assets/8986220b-ca1a-46eb-a14a-4d6653a7ac68" />
 
 ---
 
