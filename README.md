@@ -6,11 +6,9 @@
 
 ---
 
-![UML Diagrams](https://img.shields.io/badge/UML-Diagrams-blue?style=flat-square&logo=diagram)
-
 ## 📜 **Table of Contents**  
 - [🎮 Features](#-features)
-- [🎮 Use Case Diagram](#-use-case-diagram)
+- [📊 Use Case Diagram](#-use-case-diagram)
 - [🛠 Technologies Used](#-technologies-used)  
 - [👤 User Roles](#-user-roles)  
 - [📸 Screenshots](#-screenshots)  
@@ -170,7 +168,7 @@
 
 ---
 
-## 🛠 **Use Case Diagram**
+## 📊 **Use Case Diagram**
 
 <img width="826" alt="Screenshot 2025-02-02 at 0 50 34" src="https://github.com/user-attachments/assets/8986220b-ca1a-46eb-a14a-4d6653a7ac68" />
 
