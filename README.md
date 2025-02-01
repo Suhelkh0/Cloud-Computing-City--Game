@@ -6,6 +6,8 @@
 
 ---
 
+![UML Diagrams](https://img.shields.io/badge/UML-Diagrams-blue?style=flat-square&logo=diagram)
+
 ## 📜 **Table of Contents**  
 - [🎮 Features](#-features)
 - [🎮 Use Case Diagram](#-use-case-diagram)
