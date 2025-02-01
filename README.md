@@ -35,7 +35,9 @@
 <img width="920" alt="Screenshot 2025-02-02 at 0 26 35" src="https://github.com/user-attachments/assets/bf97f3eb-6c69-4764-93e7-5433f7737b5d" />
 
 •	You can see your name, your total score and your record of questions that answered correctly in a row.
+
 •	You can see you badge (if you are one of the top 3 users) 
+
 •	Click on Leader Table button to see you rank and top 5 users.
 •	Click on Cinema button to watch and lean new fields related to cloud computing.
 •	Click on Help button to get more information about the game.
