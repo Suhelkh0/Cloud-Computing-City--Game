@@ -1,9 +1,8 @@
 # ☁️🏙️ Cloud Computing City - Gamified Cloud Learning  
 
-<img width="928" alt="Screenshot 2025-02-02 at 0 17 03" src="https://github.com/user-attachments/assets/3faa6f07-8130-480d-9acc-94c281f1ef03" />
-
-
 **Cloud Computing City** is an interactive **educational game** designed to teach users about **Cloud Computing** concepts in a fun and engaging way. Inspired by open-world games like GTA, the game immerses users in a virtual environment where they learn about **cloud types, service models, and cloud architecture** through videos, quizzes, and competitive leaderboards.  
+
+<img width="928" alt="Screenshot 2025-02-02 at 0 17 03" src="https://github.com/user-attachments/assets/3faa6f07-8130-480d-9acc-94c281f1ef03" />
 
 ---
 
