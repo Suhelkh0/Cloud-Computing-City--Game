@@ -26,6 +26,16 @@
 
 ## 🛠 **Technologies Used**
 
+Cloud Computing City integrates **frontend, backend, and cloud technologies** to deliver an interactive learning experience.
+
+| Technology      | Description |
+|----------------|------------|
+| **HTML & CSS** | Defines the **structure** and **styling** of the game's user interface. |
+| **JavaScript** | Handles **client-side interactivity**, quizzes, and leaderboard updates. |
+| **Python** | Manages **backend logic**, data processing, and API interactions. |
+| **Firebase** | Stores **quiz data, user progress, and leaderboard rankings** in a real-time cloud database. |
+
+These technologies ensure that **Cloud Computing City** runs efficiently with **real-time updates, smooth animations, and scalable storage solutions**. 🚀
 
 ---
 
