@@ -26,9 +26,11 @@
 
 <img width="925" alt="Screenshot 2025-02-02 at 0 26 14" src="https://github.com/user-attachments/assets/c9846344-260f-4ec5-87a3-64b13e4f08c9" />
 
+
 ### **Sign Up Page**
 
 <img width="922" alt="Screenshot 2025-02-02 at 0 26 27" src="https://github.com/user-attachments/assets/b6558e82-8739-4076-8690-d15c7352e492" />
+
 
 ### **Home screen Page**
 
@@ -43,6 +45,7 @@
 -	Click on Start button to start a game.
 -	Click on Logout button logout from the game.
 
+
 ### **Leader Table Page**
 
 <img width="924" alt="Screenshot 2025-02-02 at 0 26 56" src="https://github.com/user-attachments/assets/1fc9748c-1792-4e99-8787-62e5ddd821df" />
@@ -50,6 +53,7 @@
 -	User can see his rank and the top 5 users.
 -	The user row in the table is marked.
 -	Note: if the user is not in the top 5, he still gone a see his rank in the last row in the table.
+
 
 ### **Cinema Page**
 
@@ -59,11 +63,13 @@
 -	Each video contains a title that related to the video.
 -	Click on Help button to get more information.
 
+
 ### **Help pop-up Page**
 
 <img width="920" alt="Screenshot 2025-02-02 at 0 27 12" src="https://github.com/user-attachments/assets/89196f52-6964-4864-a793-0fa6e99c332c" />
 
 -	You can see more information about the game.
+
 
 ### **Game Page**
 
@@ -74,6 +80,7 @@
 -	You can see the question and the four answers.
 -	To choose an answer click on that answer.
 
+
 ### **Pop-up indicator Page**
 
 <img width="919" alt="Screenshot 2025-02-02 at 0 27 29" src="https://github.com/user-attachments/assets/04523575-12cf-4aa7-a451-05021fa3a86c" />
@@ -82,6 +89,7 @@
 -	Click on Next Question to move on to the next question in the session.
 -	Click on the End Game button if you want to end your session in the middle.
 -	Note: in the screen below the shown pop-up is for correct answer.
+
 
 ### **Result Page**
 
@@ -96,6 +104,7 @@
 -	In the bar chart you can see how much score you got in your previous sessions (up to 3). The horizontal axis contains the session number, and the vertical axis contains the points for that session.
 -	Click on Back to Home Back to return to Home screen.
 
+
 ### **Admin Page**
 
 <img width="924" alt="Screenshot 2025-02-02 at 0 27 42" src="https://github.com/user-attachments/assets/e0b7e88e-d397-445e-a1d7-c670de065e10" />
@@ -104,6 +113,7 @@
 -	Click on Edit question button to edit/delete question.
 -	Click on Add question button to add new video to the Cinema.
 -	Click on Logout to logout from the system.
+
 
 ### **Add Question Page**
 
@@ -116,6 +126,7 @@
 -	Click on Back to return to Admin screen.
 -	Note: by not entering all the fields, the user gets an error message. 
 
+
 ### **Edit/Delete Question Page**
 
 <img width="918" alt="Screenshot 2025-02-02 at 0 28 16" src="https://github.com/user-attachments/assets/3de10449-b5f2-4478-8845-7bd9e1852595" />
@@ -124,11 +135,13 @@
 -	Click on Search to edit/delete the chosen question.
 -	Click on Back button to return to Admin screen.
 
+
 ### **Dropdown in the Edit/Delete Page**
 
 <img width="924" alt="Screenshot 2025-02-02 at 0 28 24" src="https://github.com/user-attachments/assets/e0cf27a3-1377-48b3-8767-8f25fc7da44e" />
 
 -	You can see every question and its id.
+
 
 ### **Edit/Delete Question (after clicking on Search button) Page**
 
@@ -141,6 +154,7 @@
 -	If you want to delete that question, click on Delete button.
 -	Click on Back button to return to Edit/Delete screen (the screen above)
 -	Note: by not entering all the fields, the user gets an error message. 
+
 
 ### **Add Video Page**
 
