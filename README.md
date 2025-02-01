@@ -11,7 +11,6 @@
 - [📊 Use Case Diagram](#-use-case-diagram)
 - [🛠 Technologies Used](#-technologies-used)  
 - [👤 User Roles](#-user-roles)  
-- [📸 Screenshots](#-screenshots)  
 - [🚀 How It Works](#-how-it-works)  
 
 ---
