@@ -24,7 +24,7 @@
 
 ## 📽️ Demo Video  
 
-![Watch the video](https://github.com/Suhelkh0/Cloud-Computing-City-Game/video.mp4)
+![Watch the video](https://github.com/Suhelkh0/Cloud-Computing-City-Game/demo_video.mp4)
 
 
 ### **Log In Page**
