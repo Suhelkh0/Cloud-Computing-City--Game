@@ -22,6 +22,11 @@
 ✔️ **Leaderboards** – See rankings compared to **other players**  
 ✔️ **Admin Dashboard** – Admins can **add new quiz questions**  
 
+## 📽️ Demo Video  
+
+[![Watch the video](docs/images/video-thumbnail.png)](https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/docs/videos/video.mp4)
+
+
 ### **Log In Page**
 
 <img width="925" alt="Screenshot 2025-02-02 at 0 26 14" src="https://github.com/user-attachments/assets/c9846344-260f-4ec5-87a3-64b13e4f08c9" />
