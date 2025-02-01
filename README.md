@@ -22,6 +22,8 @@
 ✔️ **Leaderboards** – See rankings compared to **other players**  
 ✔️ **Admin Dashboard** – Admins can **add new quiz questions**  
 
+### **Log In Screen**
+
 <img width="925" alt="Screenshot 2025-02-02 at 0 26 14" src="https://github.com/user-attachments/assets/c9846344-260f-4ec5-87a3-64b13e4f08c9" />
 
 <img width="922" alt="Screenshot 2025-02-02 at 0 26 27" src="https://github.com/user-attachments/assets/b6558e82-8739-4076-8690-d15c7352e492" />
